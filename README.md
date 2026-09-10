@@ -56,7 +56,7 @@ Make sure you have the following installed on your machine:
 **1. Download the project:** 
 Clone the repository using your terminal:
 ```bash
-git clone [Twój link do repozytorium]
+git clone https://github.com/AirNicolas54382/Minecraft2.0
 ```
 *(Alternatively, simply download the `.zip` file from GitHub and extract it to your preferred folder).*
 
@@ -74,3 +74,7 @@ In the *Project Explorer* (usually on the left), navigate to the `src` folder an
 
 **6. Run the game:** 
 Right-click on `Main.java` and select **▶ Run 'Main.main()'**.
+
+## 👤 Author
+
+*   **GitHub:** [AirNicolas54382](https://github.com/AirNicolas54382)
