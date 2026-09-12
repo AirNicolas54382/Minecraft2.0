@@ -48,7 +48,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 Make sure you have the following installed on your machine:
-*   [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/) (Version [Podaj wersję Javy, np. 17] or higher)
+*   [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/) (Version 17 or higher)
 *   [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) (Community or Ultimate edition)
 
 ### ⚙️ Installation & Execution
